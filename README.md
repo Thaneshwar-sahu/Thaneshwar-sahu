@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thaneshwar Sahu</h1>
-<h3 align="center">A passionate Business and Data Analyst From India</h3>
+<h3 align="center">A passionate Business and Data Scientist From India</h3>
 
 - 🌱 I’m currently learning **Analytics on Supply chain and logistics**
 
