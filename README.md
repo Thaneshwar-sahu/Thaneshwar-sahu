@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thaneshwar Sahu</h1>
 <h3 align="center">
-AI Business Solution Architect | Data, Analytics & Cloud AI
+AI Business Solution Architect | Data, Analytics & Cloud AI | Enterprise AI 
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ Designing AI‑driven, data‑centric solutions to solve real‑world business p
 
 - 🔭 I’m currently working as an **AI Business Solution Architect**
 - 🧠 Focused on **AI strategy, data analytics, machine learning, and cloud‑native architectures**
-- 💬 Ask me about **Statistical Analysis, Data Analytics, Machine Learning, and Enterprise AI**
+- 💬 Ask me about **Statistical Analysis, Data Analytics, Machine Learning, Cloud and Enterprise AI**
 - 📫 How to reach me **sv.thaneshwar@gmail.com**
 
 ---
